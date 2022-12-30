@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <link href="css/bootstrap.css" rel="stylesheet">
+         <link href="css/loopstudio.css" rel="stylesheet">
+    </head>
+    <body>
+        <img src="file:///C:/Users/user52/Desktop/loopstudios-landing-page-main/images/desktop/image-hero.jpg" height="300px" width="1400px">
+      
+        <div class="container">
+            <img src="file:///C:/Users/user52/Desktop/loopstudios-landing-page-main/images/desktop/image-interactive.jpg" height="200px" width="400px">
+       </div>
+
+
+                              <p id="p1">OUR CREATIONS <button type="button1" class="btn btn-outline-dark">S E E A L L</button></p>
+             
+
+               <img src="file:///C:/Users/user52/Desktop/loopstudios-landing-page-main/images/desktop/image-deep-earth.jpg" height="290px" width="225" padding-left="10px">
+              
+              
+               <img src="file:///C:/Users/user52/Desktop/loopstudios-landing-page-main/images/desktop/image-night-arcade.jpg" height="290px" width="225px" padding-left="10px">
+              
+              
+               <img src="file:///C:/Users/user52/Desktop/loopstudios-landing-page-main/images/desktop/image-soccer-team.jpg" height="290px" width="225px">
+              
+              
+               <img src="file:///C:/Users/user52/Desktop/loopstudios-landing-page-main/images/desktop/image-grid.jpg" height="290px" width="225px">
+                                                                
+               <div class="container" padding-top="10px">
+                <img src="file:///C:/Users/user52/Desktop/loopstudios-landing-page-main/images/desktop/image-from-above.jpg" height="290px" width="225px">
+
+                <img src="file:///C:/Users/user52/Desktop/loopstudios-landing-page-main/images/desktop/image-pocket-borealis.jpg" height="290px" width="225px">
+
+                <img src="file:///C:/Users/user52/Desktop/loopstudios-landing-page-main/images/desktop/image-curiosity.jpg" height="290px" width="225px">
+
+                <img src="file:///C:/Users/user52/Desktop/loopstudios-landing-page-main/images/desktop/image-fisheye.jpg" height="290px" width="225px">
+           </div>
+            
+           
+           <div data-bs-theme="dark" class="p-3 text-body bg-body">
+            <nav aria-label="breadcrumb">
+              <ol class="breadcrumb">
+                <p class="breadcrumb-item"><a href="#">loopstudios</a></p>
+              </ol>
+            </nav>
+          
+            <p><strong>About         Careers         Events      Products       Support</strong></p> 
+            <p id=p3>@ 2021 Loopstudios.All rights reserved.</p>
+    </body>
+</html>
